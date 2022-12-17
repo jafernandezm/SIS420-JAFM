@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/equipmentradar/heavy-equipment-pricing-data
+
+https://www.kaggle.com/datasets/crawford/emnist?resource=download&select=emnist-balanced-train.csv
+
